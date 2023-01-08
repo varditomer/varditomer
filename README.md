@@ -11,7 +11,7 @@ looking for my next challenge.</h3>
 
 - 🌱 I continue to learn and develop my skills in Vue, React & Angular.js.
 
-- 👨‍💻 All of my projects are available at [https://github.com/varditomer](https://github.com/varditomer)
+- 👨‍💻 All of my projects are available at [https://github.com/varditomer](My Portfolio)
 
 - 💬 You are more than welcome to ask me about: **full stack development, Vue & React.**
 
