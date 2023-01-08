@@ -9,13 +9,13 @@ looking for my next challenge.</h3>
 
 - 🔭 I’m currently looking for my first opportunity to **work in web development**.
 
-- 🌱 I continue to learn and develop my skills in Vue, React & Angular.js.
+- 🌱 I continue to learn and develop my skills in **Vue, React & Angular.js**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/varditomer](My Portfolio)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/varditomer)**.
 
 - 💬 You are more than welcome to ask me about: **full stack development, Vue & React.**
 
-- 📫 You can reach me in **tomer.vardi@gmail.com.**
+- 📫 You can reach me in **[tomer.vardi@gmail.com](https://tomer.vardi@gmail.com).**
 
 - ⚡ Fun fact: **I love playing FIFA and funny Nintendo games with my friends**
 
