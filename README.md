@@ -1,4 +1,5 @@
-<p dir="auto"><a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;"></a></p>
+
+
 <h1 align="center" dir="auto">Hi
       <img style="display: block;-webkit-user-select: none;margin: auto; height:30px; width:30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Tomer.</h1>
 <h3 align="center">A passionate Full stack / frontend developer 👨🏻‍💻,
